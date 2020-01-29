@@ -1,0 +1,1 @@
+Porting [a compiler from scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch) from Ruby to JavaScript, attempting to use equivalent constructs to the Ruby implementation for a SLOC comparison.
